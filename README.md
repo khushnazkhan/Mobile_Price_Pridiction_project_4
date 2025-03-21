@@ -43,8 +43,8 @@ scikit-learn: Machine learning library used for building and evaluating the pred
 Pandas: Library used for data manipulation and analysis.
 Matplotlib/Seaborn: Libraries used for data visualization.
 # How to Run the Project
-Clone the Repository: Clone the project repository to your local machine.
-Install Dependencies: Install the required libraries using pip install -r requirements.txt.
+**Clone the Repository:** Clone the project repository to your local machine.
+**Install Dependencies:** Install the required libraries using pip install -r requirements.txt.
 Run the Scripts: Execute the scripts in the specified order to perform data exploration, preprocessing, feature extraction, model building, and evaluation.
-Generate Report: Run the script to generate the final report and visualizations.
+**Generate Report:** Run the script to generate the final report and visualizations.
 Conclusion
